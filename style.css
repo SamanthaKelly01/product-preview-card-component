@@ -14,7 +14,7 @@ body {
 }
 
 .card {
-    width: 800px;
+    width: 600px;
     background-color: white;
     border-radius: 10px;
     display: flex;
@@ -25,14 +25,14 @@ body {
 }
 
 .image {
-    width: 400px;
+    width: 300px;
     height: 100%;
 
 }
 
 .text {
-    padding-left: 40px;
-    padding-right: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
     justify-content: space-evenly;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@ body {
 
 .content {
     font-family: Montserrat, sans-serif;
-    font-size: 18px;
+    font-size: 14px;
     margin: 0;
     opacity: 60%;
     line-height: 1.7;
@@ -57,7 +57,7 @@ body {
 }
 
 .prices {
-    font-size: 42px;
+    font-size: 30px;
     color: hsl(158, 36%, 37%);
     display: flex;
     align-items: center;
